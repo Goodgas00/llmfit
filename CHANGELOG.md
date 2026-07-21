@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.7](https://github.com/AlexsJones/llmfit/compare/v1.1.6...v1.1.7) (2026-07-21)
+
+
+### Features
+
+* **tui:** spell out active advanced range filters instead of cryptic R/M markers ([8aee7ce](https://github.com/AlexsJones/llmfit/commit/8aee7cefb95a24c9b5179eb9ad5a07e72b1c2141))
+
 ## [1.1.6](https://github.com/AlexsJones/llmfit/compare/v1.1.5...v1.1.6) (2026-07-21)
 
 
